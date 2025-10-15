@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #c9a3a9;
+    font-family: Vedana, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: #2121f0;
+    font-size: 36px;
+}
+
+#highlight {
+    background-color: #46f846;
+    font-weight: bold;
+}
+
+.three {
+    font-size: 24px;
+}
